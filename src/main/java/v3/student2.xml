@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<studentList>
+  <student id="1">
+    <name>王洪晓</name>
+    <age>24</age>
+  </student>
+</studentList>

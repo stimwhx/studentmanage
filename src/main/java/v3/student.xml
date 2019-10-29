@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<studentList>
+  <student id="1004">
+    <name>王晓</name>
+    <age>23</age>
+    <sex>男</sex>
+  </student>
+</studentList>

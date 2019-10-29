@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookstore>
+    <book id="1">
+        <name>JAVA第一行代码</name>
+        <author>张的的</author>
+        <price>184</price>
+    </book>
+    <book id="2">
+        <name>JAVA第二行代码</name>
+        <author>张的的</author>
+        <price>84</price>
+    </book>
+    <book id="3">
+        <name>JAVA第三行代码</name>
+        <author>张的的</author>
+        <price>14</price>
+    </book>
+
+</bookstore>
